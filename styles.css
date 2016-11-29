@@ -1,11 +1,45 @@
+.container {
+    width: 70%;
+    margin: auto;
+    margin-top: 60px;
+}
+
+nav ul {
+    list-style-type: none;
+    text-align: center;
+}
+
+header h1 {
+    display: inline;
+    margin-left
+}
+
+nav li {
+    display: inline-block;
+    padding: 10px;
+}
+
+
 img {
-    width: 250px;
+    width: 10%;
 }
 
-h1 {
-    font-size: 90px;
+article {
+    background-color: gray;
+    border-radius: 5px;
+    width: 300px;
+    float: left;
+    margin: 10px;
+}
+article img {
+    width: 100px;
 }
 
-body {
-    background-color: #00bf00;
+article h3 {
+    font-size: 1.5em;
+    font-family: "Courier New";
+    text-align: center;
 }
+
+
+
